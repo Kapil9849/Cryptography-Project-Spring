@@ -1,0 +1,26 @@
+Patient ID: 776655
+Name: Olivia Moore
+Date of Birth: 1998-12-18
+Gender: Female
+Address: 753 Sunflower Boulevard, Springdale, MT 77665, USA
+Email: oliviamoore@example.com
+Phone: +1 (555) 776-6554
+
+Height: 165 cm
+Weight: 55 kg
+Blood Type: A+
+
+Allergies:
+- Shellfish (Severe)
+- Dogs (Moderate)
+
+Medications:
+- EpiPen: Auto-injector (As needed)
+- Claritin: 10mg (Once daily)
+
+Conditions:
+- Severe Allergic Reactions (Diagnosed: 2012-03-10)
+- Seasonal Allergies (Diagnosed: 2017-06-25)
+
+Last Visit: 2022-02-20
+Next Appointment: 2022-05-15

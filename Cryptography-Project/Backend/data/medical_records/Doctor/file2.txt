@@ -1,0 +1,26 @@
+Patient ID: 12345
+Name: John Doe
+Date of Birth: 1975-05-15
+Gender: Male
+Address: 123 Main Street, Anytown, NY 12345, USA
+Email: johndoe@example.com
+Phone: +1 (555) 123-4567
+
+Height: 180 cm
+Weight: 80 kg
+Blood Type: A+
+
+Allergies:
+- Penicillin (Moderate)
+- Pollen (Mild)
+
+Medications:
+- Aspirin: 100mg (Once daily)
+- Lisinopril: 10mg (Twice daily)
+
+Conditions:
+- Hypertension (Diagnosed: 2010-01-15)
+- Type 2 Diabetes (Diagnosed: 2015-07-20)
+
+Last Visit: 2022-03-01
+Next Appointment: 2022-04-15

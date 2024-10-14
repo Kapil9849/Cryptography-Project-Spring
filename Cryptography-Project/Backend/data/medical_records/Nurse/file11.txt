@@ -1,0 +1,26 @@
+Patient ID: 663399
+Name: Samantha Roberts
+Date of Birth: 1990-07-08
+Gender: Female
+Address: 632 Meadow Lane, Meadowbrook, PA 66339, USA
+Email: samantharoberts@example.com
+Phone: +1 (555) 663-3996
+
+Height: 168 cm
+Weight: 62 kg
+Blood Type: B-
+
+Allergies:
+- Aspirin (Severe)
+- Cats (Moderate)
+
+Medications:
+- EpiPen: Auto-injector (As needed)
+- Zyrtec: 10mg (Once daily)
+
+Conditions:
+- Severe Asthma (Diagnosed: 2000-12-20)
+- Allergic Rhinitis (Diagnosed: 2015-09-15)
+
+Last Visit: 2022-03-15
+Next Appointment: 2022-06-10

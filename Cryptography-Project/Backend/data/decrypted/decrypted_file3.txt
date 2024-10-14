@@ -1,0 +1,26 @@
+Patient ID: 54321
+Name: Jane Smith
+Date of Birth: 1980-08-20
+Gender: Female
+Address: 456 Oak Avenue, Smalltown, CA 98765, USA
+Email: janesmith@example.com
+Phone: +1 (555) 987-6543
+
+Height: 165 cm
+Weight: 65 kg
+Blood Type: B-
+
+Allergies:
+- Shellfish (Severe)
+- Dust (Mild)
+
+Medications:
+- Ibuprofen: 200mg (As needed)
+- Levothyroxine: 50mcg (Once daily)
+
+Conditions:
+- Asthma (Diagnosed: 1995-06-10)
+- Hypothyroidism (Diagnosed: 2010-12-05)
+
+Last Visit: 2022-02-15
+Next Appointment: 2022-05-10

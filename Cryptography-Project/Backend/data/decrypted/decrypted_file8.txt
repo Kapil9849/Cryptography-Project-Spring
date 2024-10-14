@@ -1,0 +1,26 @@
+Patient ID: 998877
+Name: David Wilson
+Date of Birth: 1983-06-05
+Gender: Male
+Address: 987 Forest Avenue, Woodland, NV 99887, USA
+Email: davidwilson@example.com
+Phone: +1 (555) 998-8775
+
+Height: 178 cm
+Weight: 75 kg
+Blood Type: O-
+
+Allergies:
+- Peanuts (Moderate)
+- Grass (Mild)
+
+Medications:
+- Metformin: 1000mg (Twice daily)
+- Albuterol: Inhaler (As needed)
+
+Conditions:
+- Type 2 Diabetes (Diagnosed: 2010-12-15)
+- Asthma (Diagnosed: 2015-08-20)
+
+Last Visit: 2022-03-05
+Next Appointment: 2022-06-30

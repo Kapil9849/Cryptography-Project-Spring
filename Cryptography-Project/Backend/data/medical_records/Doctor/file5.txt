@@ -1,0 +1,26 @@
+Patient ID: 24680
+Name: Sarah Lee
+Date of Birth: 1988-11-30
+Gender: Female
+Address: 135 Maple Lane, Sunnydale, FL 24680, USA
+Email: sarahlee@example.com
+Phone: +1 (555) 246-8024
+
+Height: 160 cm
+Weight: 55 kg
+Blood Type: AB-
+
+Allergies:
+- Latex (Severe)
+- Pollen (Mild)
+
+Medications:
+- Zyrtec: 10mg (Once daily)
+- Epinephrine: Auto-injector (As needed)
+
+Conditions:
+- Latex Allergy (Diagnosed: 2010-07-10)
+- Seasonal Allergies (Diagnosed: 2015-04-01)
+
+Last Visit: 2022-01-10
+Next Appointment: 2022-04-05

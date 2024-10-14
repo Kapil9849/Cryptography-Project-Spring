@@ -1,0 +1,26 @@
+Patient ID: 11223
+Name: Emily Brown
+Date of Birth: 1995-09-10
+Gender: Female
+Address: 369 Cedar Road, Hillcrest, WA 11223, USA
+Email: emilybrown@example.com
+Phone: +1 (555) 112-2336
+
+Height: 170 cm
+Weight: 60 kg
+Blood Type: B+
+
+Allergies:
+- Penicillin (Moderate)
+- Dust Mites (Mild)
+
+Medications:
+- Birth Control Pills: 1 pill/day
+- Prozac: 20mg (Once daily)
+
+Conditions:
+- Depression (Diagnosed: 2017-04-20)
+- Polycystic Ovary Syndrome (Diagnosed: 2019-10-05)
+
+Last Visit: 2022-03-10
+Next Appointment: 2022-06-15

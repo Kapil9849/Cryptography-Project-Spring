@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "username": "johndoe",
+        "password": "johndoe123",
+        "first_name": "John",
+        "last_name": "Doe",
+        "role": "Doctor",
+        "department": "Cardiology",
+        "specialization": "Cardiologist"
+    },
+    {
+        "id": 2,
+        "username": "janesmith",
+        "password": "janesmith123",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "role": "Nurse",
+        "department": "ICU",
+        "specialization": "CriticalCareNurse"
+    },
+    {
+        "id": 3,
+        "username": "alicejohnson",
+        "password": "alicejohnson123",
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "role": "Doctor",
+        "department": "Neurology",
+        "specialization": "Neurosurgeon"
+    },
+    {
+        "id": 4,
+        "username": "michaelbrown",
+        "password": "michaelbrown123",
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "role": "Nurse",
+        "department": "Pediatrics",
+        "specialization": "PediatricNurse"
+    },
+    {
+        "id": 5,
+        "username": "sarahadams",
+        "password": "sarahadams123",
+        "first_name": "Sarah",
+        "last_name": "Adams",
+        "role": "Administrator",
+        "department": "Administration",
+        "specialization": ""
+    }
+]

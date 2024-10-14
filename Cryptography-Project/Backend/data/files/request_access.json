@@ -1,0 +1,15 @@
+[
+    {
+        "user_id": 1,
+        "requests": [
+            "file1.txt",
+            "file6.txt",
+            "file3.txt",
+            "file5.txt"
+        ]
+    },
+    {
+        "user_id": 3,
+        "requests": []
+    }
+]

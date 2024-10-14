@@ -1,0 +1,10 @@
+[
+    {
+        "file_name": "file4.txt",
+        "policy_string": "()"
+    },
+    {
+        "file_name": "file2.txt",
+        "policy_string": "(((1) AND (DOCTOR) AND (CARDIOLOGY) AND (CARDIOLOGIST)))"
+    }
+]

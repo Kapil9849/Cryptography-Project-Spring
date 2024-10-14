@@ -1,0 +1,26 @@
+Patient ID: 13579
+Name: William Taylor
+Date of Birth: 1970-02-28
+Gender: Male
+Address: 246 Elm Street, Riverdale, GA 13579, USA
+Email: williamtaylor@example.com
+Phone: +1 (555) 135-7928
+
+Height: 185 cm
+Weight: 90 kg
+Blood Type: A-
+
+Allergies:
+- Bee Stings (Severe)
+- Milk (Moderate)
+
+Medications:
+- Lisinopril: 20mg (Once daily)
+- Simvastatin: 40mg (Once daily)
+
+Conditions:
+- Hypertension (Diagnosed: 2000-07-15)
+- High Cholesterol (Diagnosed: 2012-10-30)
+
+Last Visit: 2022-02-28
+Next Appointment: 2022-05-30

@@ -1,0 +1,26 @@
+Patient ID: 78901
+Name: Michael Johnson
+Date of Birth: 1992-04-12
+Gender: Male
+Address: 789 Pine Street, Metroville, TX 54321, USA
+Email: michaeljohnson@example.com
+Phone: +1 (555) 543-2109
+
+Height: 175 cm
+Weight: 70 kg
+Blood Type: O+
+
+Allergies:
+- Peanuts (Severe)
+- Cats (Moderate)
+
+Medications:
+- Insulin: 10 units (Before meals)
+- Albuterol: Inhaler (As needed)
+
+Conditions:
+- Diabetes Type 1 (Diagnosed: 2005-09-20)
+- Allergic Rhinitis (Diagnosed: 2012-03-15)
+
+Last Visit: 2022-03-25
+Next Appointment: 2022-06-20
